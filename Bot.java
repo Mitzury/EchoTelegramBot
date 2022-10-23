@@ -4,7 +4,6 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 import org.telegram.telegrambots.meta.api.objects.User;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 
-import java.sql.SQLException;
 import java.util.Date;
 
 public class Bot extends TelegramLongPollingBot  {
